@@ -16,7 +16,7 @@ A step by step series of examples that tell you how to get a development env run
 
 1.Clone the repository
 Copy code :- 
-git clone https://github.com/minionshinchan720/Projectss.git
+git clone https://github.com/yogendrabhammarkar57/Hotel_Management.git
 
 2.Change into the project directory
 Copy code :- 
